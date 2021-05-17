@@ -13,7 +13,7 @@
     
     
     
-:united_nations: In English:
+:red_circle: In English:
 
 - It is a mini area calculation program that I have created in order to progress and apply what I have learned in the Python programming language.
 
